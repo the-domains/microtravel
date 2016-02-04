@@ -1,14 +1,7 @@
-color:
-  saturation: 1
-  brandStrength: 0.8430597
-  rhythmicContrast: 1
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  lightness: 1
+name: MicroTravel
+favicon: null
+layout_spectrum: 0.2239527
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.2239527
-typography_spectrum: 1
-name: MicroTravel
+title: Mic
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8430597
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
+purpose: []
