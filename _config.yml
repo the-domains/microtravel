@@ -1,0 +1,14 @@
+layout_spectrum: 0.2239527
+typography_spectrum: 1
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 0.8430597
+  rhythmicContrast: 1
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: MicroTravel
