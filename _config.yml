@@ -1,6 +1,6 @@
 name: MicroTravel
 favicon: null
-layout_spectrum: 0.2797
+layout_spectrum: 0.13861
 typography_spectrum: 1
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.8430597
+  brandStrength: 0.5
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
