@@ -1,5 +1,7 @@
-title: MicroTravel
-purpose: []
+name: MicroTravel
+favicon: null
+layout_spectrum: 0.13861
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -12,30 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 1
-  brandColors:
-    - '#FFFFFF'
-    - '#171417'
-    - '#6F6564'
-    - '#B3ADB3'
-    - '#B36E65'
-  rhythmicContrast: 1
+title: MicroTravel
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: MicroTravel
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 1
-layout_spectrum: 0.13861
+color:
+  brandColors:
+    - '#97c4e2'
+    - '#f5eada'
+    - '#757c76'
+    - '#445f1a'
+    - '#1d221d'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
+purpose: []
